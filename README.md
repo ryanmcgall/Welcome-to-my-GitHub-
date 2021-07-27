@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=ryanmcgall&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a>
   <a href="https://discord.com/users/543145781767700481">
-    <img src="https://img.shields.io/badge/ryanmcgall%230001-%237289da?logo=discord&style=flat-square" alt="Discord: rmc#0001"/>
+    <img src="https://img.shields.io/badge/rmc%230001-%237289da?logo=discord&style=flat-square" alt="Discord: rmc#0001"/>
   </a>
   <a href="https://twitter.com/developerrmc">
     <img src="https://img.shields.io/badge/ryanmcgall-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: developerrmc"/>
