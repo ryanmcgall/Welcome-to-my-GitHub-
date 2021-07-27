@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, Rrmc here.</h1>
+<h1 align="center">Hey 👋, rmc here.</h1>
 <h3 align="center">Young Verified Discord Bot Developer, who has an interest in Web Development and Application development.</h3>
 
 
@@ -30,9 +30,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 July, 2021 - 26 July, 2021
-
-Other   3 mins          █████████████████████████   100.00 % 
+Goal:   5 hours          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -41,7 +39,7 @@ Other   3 mins          ██████████████████�
 ---
 
 <details open>
-<summary>🛠 <b>Tools I've used</b></summary>
+<summary>🛠 <b>Tools im familiar with</b></summary>
 <p>
 
 <p align="center">
