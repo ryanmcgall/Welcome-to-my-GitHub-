@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, Anaxes here.</h1>
-<h3 align="center">Young Verified Discord Bot Developer, who has an interest in Web Development.</h3>
+<h1 align="center">Hey 👋, Rrmc here.</h1>
+<h3 align="center">Young Verified Discord Bot Developer, who has an interest in Web Development and Application development.</h3>
 
 
 <p align="center">
@@ -7,10 +7,10 @@
     <img src="https://komarev.com/ghpvc/?username=ryanmcgall&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a>
   <a href="https://discord.com/users/543145781767700481">
-    <img src="https://img.shields.io/badge/Discord-Anaxes%233274-%237289da?logo=discord&style=flat-square" alt="Discord: rmc#0001"/>
+    <img src="https://img.shields.io/badge/ryanmcgall%233274-%237289da?logo=discord&style=flat-square" alt="Discord: rmc#0001"/>
   </a>
   <a href="https://twitter.com/developerrmc">
-    <img src="https://img.shields.io/badge/Twitter-DiscordAnaxes-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: developerrmc"/>
+    <img src="https://img.shields.io/badge/ryanmcgall-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: developerrmc"/>
   </a>
 </p>
 
@@ -21,8 +21,8 @@
 <details>
   <summary>⚡ GitHub Statistics</summary> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DiscordAnaxes&count_private=true&show_icons=true&theme=tokyonight" />
-  <img src="https://github-profile-trophy.vercel.app/?username=DiscordAnaxes&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ryanmcgall&count_private=true&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ryanmcgall&theme=dracula" />
 </details>
 
 <details open>
