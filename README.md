@@ -1,58 +1,24 @@
-<h3 title="hehehe"> Hey 👋, I'm Jaskirat!</h3>
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
-<a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/jaskirat.mokha/">
-  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100009175092863">
-  <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/jas_script">
-  <img align="left" alt="Jaskirat's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a>
+<div align="center" width="50">
 
+You have finally discovered my Github profile. 🥳<br>
+Please feel free to clone/fork projects 🤗, raise issues and submit PRs if you think something could be better. <br>
+ask me anything and connect with me <a href="http://discord.com/users/543145781767700481"><b>here</b></a>
 
+<i>Happy Coding!</i> 😊
 
+</div>
 
-<br />
-<br />
+<div align="center">
 
-A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
- 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryanmcgall&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="rmc's Github Stats">
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</br>
+</br>
+<i>Random developer joke for you!</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
-**About Me!**
-
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
-- 🤔 My interest lies in front end web development.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [jsmokha33@gmail.com](mailto:jsmokha33@gmail.com).
-
-
-
-**Languages and Tools:**  
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jas-Script&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
-
-----
-Credit: [Jas-Script](https://github.com/Jas-Script)
-
-Last Edited on: 27/07/2021
+</div>
